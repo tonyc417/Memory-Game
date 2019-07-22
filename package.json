@@ -1,6 +1,7 @@
 {
   "name": "pic-game",
   "version": "0.1.0",
+  "homepage": "https://tonyc417.github.io/memory-game/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
